@@ -11,3 +11,26 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+
+
+
+.table.tr{
+  color: blue;
+}
+
+.btnt{
+  color: white;
+  background-color: lightgreen;
+  border-radius: 6px;
+
+}
+.btn{
+  color: white;
+  background-color: red;
+  border-radius: 6px;
+}
+
+.text-primary{
+  color: blue;
+}
