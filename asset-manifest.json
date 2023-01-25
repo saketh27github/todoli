@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/todoli/static/css/main.897f1df1.css",
+    "main.js": "/todoli/static/js/main.fc6011d0.js",
+    "index.html": "/todoli/index.html",
+    "main.897f1df1.css.map": "/todoli/static/css/main.897f1df1.css.map",
+    "main.fc6011d0.js.map": "/todoli/static/js/main.fc6011d0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.897f1df1.css",
+    "static/js/main.fc6011d0.js"
+  ]
+}
